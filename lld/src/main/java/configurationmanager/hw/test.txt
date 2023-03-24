@@ -1,0 +1,6 @@
+#E:\java programming\workspace java17\lld\src\main\java\configurationmanager\hw\test.txt
+#Fri Mar 24 19:37:42 IST 2023
+fname=vikas
+lname=gupta
+organisation=Tata Consultancy Services
+age=28
